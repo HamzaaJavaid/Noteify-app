@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "978778677557",
+    "project_id": "noteify-8f005",
+    "storage_bucket": "noteify-8f005.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978778677557:android:66c66a7e4d4a60c7fe2c7c",
+        "android_client_info": {
+          "package_name": "com.example.noteify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978778677557-tb7mmf9b43m2or6o2tgb6ga7tr22i0i8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkD0vzJKMIyCbqhhDkz6n7WFQgamcT7DU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978778677557-tb7mmf9b43m2or6o2tgb6ga7tr22i0i8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
