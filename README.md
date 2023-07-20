@@ -1,16 +1,36 @@
-# noteify
+# Noteify
 
-A new Flutter project.
+An Online Note Taking App 😄
 
-## Getting Started
+## About App
 
-This project is a starting point for a Flutter application.
+This project is about an Online Note Taking App 💯  
 
-A few resources to get you started if this is your first Flutter project:
+## Topics Covered 👾 :-      
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Basic Flutter ✅  
+- Navigation ✅  
+- FrontEnd Components ✅  
+- Cloud Services ✅ 
+- Authentication ✅  
+- Cloud Storage ✅  
+- Data Retreival ✅  
+- CRUD OPERATIONS ✅   
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  
+## Tools Involved 🛠 :-    
+
+- Android Studio 📟  
+- Firebase Auth ✨  
+- Firebase Firestore 🎁  
+- Pub Dev 🥷  
+- Figma 👨‍💻  
+
+## OUTPUT:-  
+![assss](https://github.com/HamzaaJavaid/Noteify-app/assets/115164085/6b0368f7-6c84-4e33-b729-d577d8a0d792)
+
+
+
+## About Developer 🕵  
+- [Visit My LinkedIn](https://www.linkedin.com/in/hamzajavaid-hj)  😀  
+[Have a look at my WEBSITE](https://hamzajavaid.my.canva.site/),it costs nothing 😀  
